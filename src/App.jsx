@@ -1,5 +1,5 @@
 import './App.css';
-import CountDates from './components/CountDate';
+import CountDates from './components/CountDates.jsx';
 
 function App() {
   return (
